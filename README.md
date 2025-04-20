@@ -24,26 +24,35 @@ Check out the live demo: [Anime Pulse](https://anime-pulse.netlify.app/)
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Mangaleshwaran2002/anime-pulse.git
    ```
-
 2. Navigate to the project directory:
+
    ```bash
    cd anime-pulse
    ```
-
 3. Install dependencies:
+
    ```bash
    npm install
    ```
-
 4. Start the development server:
+
    ```bash
    npm start
    ```
 
 The app will be available at `http://localhost:5173/`.
+
+## Screenshots
+
+!['Anime-pulse-gif'](https://raw.githubusercontent.com/Mangaleshwaran2002/anime-pulse/refs/heads/master/ScreenShot/Anime-pulse.gif)
+!['Anime-pulse-s1'](https://raw.githubusercontent.com/Mangaleshwaran2002/anime-pulse/refs/heads/master/ScreenShot/Anime-pulse-S1.png)
+!['Anime-pulse-s2'](https://raw.githubusercontent.com/Mangaleshwaran2002/anime-pulse/refs/heads/master/ScreenShot/Anime-pulse-S2.png)
+!['Anime-pulse-s3'](https://raw.githubusercontent.com/Mangaleshwaran2002/anime-pulse/refs/heads/master/ScreenShot/Anime-pulse-S3.png)
+!['Anime-pulse-s4'](https://raw.githubusercontent.com/Mangaleshwaran2002/anime-pulse/refs/heads/master/ScreenShot/Anime-pulse-S4.png)
 
 ## Usage
 
